@@ -1,5 +1,9 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-leap-day
+
+gem "github-pages", group: :jekyll_plugins
+
+title: Ambika Trading Service 
+description: We sell Cashew Badam  and Pista   
+show_downloads: 
+github:
+  repository_url: 
